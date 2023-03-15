@@ -6,4 +6,7 @@
 #print("I'm a teacher") #yazi icinde kullandigimiz tirnak cesidi yazinin disindaki 
                        #tirnak cesidinden farkli olmali
 # Markdown icinde  # Baslik yazdigimizda sayfaya baslik ekleyebiliriz.# isareti 6 adet kadar ekleyebiliriz. 
-# # isareti artikca baslik puntosu kuculur                       
+# # isareti artikca baslik puntosu kuculur   
+"Funcions1 - filter() map(),
+lambda  -Konuyla alakali soru çözümü
+  "                    
