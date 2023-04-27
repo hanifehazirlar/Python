@@ -1,0 +1,12 @@
+1) Istedigimiz isimde bir klasor olusturuyoruz(ornegin my_package)
+2) my_package klasorunun icine py uzantili bir dosya olusturuyoruz(ornegin my_math.py)
+   bu bizim kendi olusturacagimiz fonksiyonlari saklayacagimiz yer olacak.
+3) Bilgisayarimizdaki uzerinde calistigimiz projemizin oldugu yere gidiyoruz ve orada     olusmus olan my_package klasoru icinde bir sagtus-->yeni--> Metin Belgesi seciyoruz metin belgesinin ismini ve uzantisini  
+ __init__.py   
+  olacak sekilde degistirip bir dosya olusturuyoruz.Bu bizim bu klasorumuzu modul haline getirmemizi sagliyor.
+4)  Olusturdugumuz fonksiyonu cagirmak icin ipynb uzantili dosyamiz(notebook) my_package disinda ama my_package ile ayni klasor icinde olmali.
+5)  Notebooklarimiz icinde olusturdugumuz modulu kullanabilmek icin 
+   from my_package import my_math (from klasorAdi import classAdi)
+   diyoruz ve modulumuz icindeki kullanmak istedigimiz class i import etmis oluyoruz.
+6) Import isleminden sonra classin icinden cagirmak istedigimiz fonksiyonu cagirmak icin
+   my_math.ekok()     ( classAdi.fonksiyonAdi() )       seklinde yazip cagiriyoruz.

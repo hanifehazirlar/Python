@@ -1,0 +1,6 @@
+#run icin---> shift+enter  veya ctrl+enter veya run tusu
+#yeni kutucuk eklemek icin---> uste eklemek icin esc+a
+                          ---> alta eklemek icin esc+b
+#type()--->icine yazilan verirnin type ini yazdirir
+#len() fonksiyonu list in kac elemani oldugunu bize verir
+#'Ali'+'Veli' #birden fazla string ifadeyi toplayabiliriz(concat) -->AliVeli
